@@ -22,6 +22,6 @@
 - Git
 
 \
-**Interests/Passions/Hobbies**
+**My Hobbies & Interests:**
 - Music 🎹
 - Tech 🖥
