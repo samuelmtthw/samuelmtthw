@@ -4,12 +4,14 @@
 
 **What I'm currently working on:**
 * Attendance Machine using Face Recognition and Temperature Sensor on Raspberry Pi 👁👄👁
-* Learning Machine Learning & Artificial Intelligence (especially Computer Vision) 🤖
+* Learning Machine Learning & Artificial Intelligence (especially Computer Vision) 🤖  
 
+\
 **What I want to learn soon:**
 * Vue & Node.js 
 * iOS development
 
+\
 **Skills:**
 * Assembly, C++, C#, Python
 * Arduino, NodeMCU, Raspberry Pi
@@ -18,6 +20,7 @@
 * OpenCV
 * Git
 
+\
 **My Hobbies & Interests:**
 * Music 🎹
 * Tech 🖥
