@@ -2,13 +2,15 @@
 
 ***Currently working on my last year as an Electrical Engineering student based in Jakarta, Indonesia 🇮🇩***
 
-**What I'm currently working on:**
+**Some of my projects:**
 * Attendance Machine using Face Recognition and Temperature Sensor on Raspberry Pi 👁👄👁
-* Learning Machine Learning & Artificial Intelligence (especially Computer Vision) 🤖  
+
+**What I'm currently working on:**
+* Node.js
 
 \
 **What I want to learn soon:**
-* Vue & Node.js 
+* Vue, Angular, and more frontend frameworks
 * iOS development
 
 \
