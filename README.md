@@ -17,10 +17,9 @@
 **Skills:**
 * Assembly, C++, C#, Python
 * Arduino, NodeMCU, Raspberry Pi
-* HTML, CSS, JavaScript
-* MySQL, PHP
+* HTML, CSS, JavaScript, PHP
+* MySQL, PostgreSQL
 * OpenCV
-* Git
 
 \
 **My Hobbies & Interests:**
