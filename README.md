@@ -3,15 +3,16 @@
 ***Currently working on my last year as an Electrical Engineering student based in Jakarta, Indonesia 🇮🇩***
 
 **Some of my projects:**
+* [BIMBLE](https://bimble-id.web.app) | Online Learning Platform (Node.js, Express, PostgreSQL, Sequelize, Vue.js, ImageKit, Xendit, NodeMailer)
+* [mtthw's build](https://mtthwsbuild.web.app) | Custom Mechanical Keyboard Shop (Node.js, Express, PostgreSQL, Sequelize, Vue.js, ImageKit, Xendit)
 * Attendance Machine using Face Recognition and Temperature Sensor on Raspberry Pi 👁👄👁
 
 **What I'm currently working on:**
-* Node.js
+* Next.js
 
 \
 **What I want to learn soon:**
-* Vue, Angular, and more frontend frameworks
-* iOS development
+* Development with TypeScript
 
 \
 **Skills:**
