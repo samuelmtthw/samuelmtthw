@@ -17,9 +17,10 @@
 \
 **Skills:**
 * Assembly, C++, C#, Python
-* Arduino, NodeMCU, Raspberry Pi
 * HTML, CSS, JavaScript, PHP
+* Node.js, Express, Sequelize
 * MySQL, PostgreSQL
+* Arduino, NodeMCU, Raspberry Pi
 * OpenCV
 
 \
