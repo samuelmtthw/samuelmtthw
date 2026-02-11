@@ -8,7 +8,7 @@
 * Attendance Machine using Face Recognition and Temperature Sensor on Raspberry Pi 👁👄👁
 
 **Current Role:**
-* Junior Frontend Engineer at [Waresix](https://waresix.com)
+* Middle Frontend Engineer at [Waresix](https://waresix.com)
 
 \
 **What I want to learn soon:**
